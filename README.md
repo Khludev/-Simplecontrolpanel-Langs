@@ -1,0 +1,1 @@
+# Language files for Simple Control Panel
